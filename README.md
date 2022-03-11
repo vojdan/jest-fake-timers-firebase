@@ -1,5 +1,7 @@
 # Using jest.useFakeTimers() hangs firebase + jest
 
+Repro test is `functions/src/fakeTimers.test.ts`
+
 To run the tests you need to:
 
 - execute `npm run emulators` in one terminal
